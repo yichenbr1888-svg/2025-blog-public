@@ -1,5 +1,18 @@
 [
   {
+    "slug": "04--21",
+    "title": "Claude",
+    "tags": [
+      "Claude",
+      "AI"
+    ],
+    "date": "2026-04-21T00:27",
+    "summary": "Windows系统下Claude安装指南",
+    "cover": "/blogs/04--21/4f45bddbf7fdda30.png",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "03-19",
     "title": "UI-UX-PRO-MAX安装指南",
     "tags": [
